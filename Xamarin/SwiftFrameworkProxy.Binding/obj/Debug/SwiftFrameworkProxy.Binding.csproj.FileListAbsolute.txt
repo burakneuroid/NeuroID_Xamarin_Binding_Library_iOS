@@ -1,0 +1,7 @@
+/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/bin/Debug/SwiftFrameworkProxy.Binding.dll
+/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/bin/Debug/SwiftFrameworkProxy.Binding.pdb
+/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/obj/Debug/_ProcessedContentPath.items
+/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/obj/Debug/SwiftFrameworkProxy.Binding.csproj.CoreCompileInputs.cache
+/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/obj/Debug/SwiftFrameworkProxy.Binding.dll
+/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/obj/Debug/SwiftFrameworkProxy.Binding.pdb
