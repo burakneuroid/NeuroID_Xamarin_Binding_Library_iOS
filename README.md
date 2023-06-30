@@ -19,3 +19,5 @@ Folder Structure
      - Sample Application to test Binding Library in Xamarin App
     
        Note: Please use Real Device to test. 
+
+Demo - <img src="https://github.com/burakneuroid/NeuroID_Xamarin_Binding_Library_iOS/blob/a0492a5c5986c9ddd96aa17a4ddb909a4ea5734b/xamarin_demo.gif"/>
