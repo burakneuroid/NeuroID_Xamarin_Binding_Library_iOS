@@ -15,6 +15,7 @@ Folder Structure
     - Xamarin Binding Library that uses "SwiftFrameworkProxy" Wrapper Framework and expose "StartWithClientKey" function that only method you need.
       -  _nid = new SwiftFrameworkProxy();
          var sessionId = _nid.StartWithClientKey("key", "formId", true);
+         * You have to store SessionId and pass it to your backend and use when you make a NeuroID - Analytics API Call
    - Xamarin.SingleView
      - Sample Application to test Binding Library in Xamarin App
     
