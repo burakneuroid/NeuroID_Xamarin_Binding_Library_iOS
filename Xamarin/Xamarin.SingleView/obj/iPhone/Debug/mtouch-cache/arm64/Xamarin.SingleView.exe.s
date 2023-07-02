@@ -122,7 +122,7 @@ jit_code_start:
 	.align 4
 	.no_dead_strip NewSingleViewTemplate_SceneDelegate_get_Window
 NewSingleViewTemplate_SceneDelegate_get_Window:
-.file 1 "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/SceneDelegate.cs"
+.file 1 "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/SceneDelegate.cs"
 .loc 1 12 0 prologue_end
 .word 0xa9bd7bfd
 .word 0x910003fd
@@ -503,7 +503,7 @@ Lme_8:
 	.align 4
 	.no_dead_strip Xamarin_SingleView_Application_Main_string__
 Xamarin_SingleView_Application_Main_string__:
-.file 2 "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/Main.cs"
+.file 2 "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/Main.cs"
 .loc 2 9 0 prologue_end
 .word 0xa9bd7bfd
 .word 0x910003fd
@@ -594,7 +594,7 @@ Lme_a:
 	.align 4
 	.no_dead_strip Xamarin_SingleView_AppDelegate_get_Window
 Xamarin_SingleView_AppDelegate_get_Window:
-.file 3 "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/AppDelegate.cs"
+.file 3 "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/AppDelegate.cs"
 .loc 3 11 0 prologue_end
 .word 0xa9bd7bfd
 .word 0x910003fd
@@ -901,7 +901,7 @@ Lme_10:
 	.align 4
 	.no_dead_strip Xamarin_SingleView_ViewController__ctor_intptr
 Xamarin_SingleView_ViewController__ctor_intptr:
-.file 4 "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/ViewController.cs"
+.file 4 "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/ViewController.cs"
 .loc 4 12 0 prologue_end
 .word 0xa9bc7bfd
 .word 0x910003fd
@@ -1261,7 +1261,7 @@ Lme_13:
 	.align 4
 	.no_dead_strip Xamarin_SingleView_ViewController_get_btnLogin
 Xamarin_SingleView_ViewController_get_btnLogin:
-.file 5 "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/ViewController.designer.cs"
+.file 5 "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/ViewController.designer.cs"
 .loc 5 16 0 prologue_end
 .word 0xa9bd7bfd
 .word 0x910003fd
@@ -1844,7 +1844,7 @@ runtime_version:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "D213C0B3-C660-4EA9-9CAD-7D880F60A198"
+	.asciz "E267D908-1CB9-421B-9338-EF03DB393937"
 .section __TEXT, __const
 	.align 2
 assembly_name:
@@ -1938,7 +1938,7 @@ _mono_aot_file_info:
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
-	.byte 38,161,79,130,116,148,179,96,195,68,43,98,145,94,124,35
+	.byte 106,145,144,189,115,148,219,27,225,5,82,200,212,143,221,131
 	.globl _mono_aot_module_Xamarin_SingleView_info
 	.align 3
 _mono_aot_module_Xamarin_SingleView_info:

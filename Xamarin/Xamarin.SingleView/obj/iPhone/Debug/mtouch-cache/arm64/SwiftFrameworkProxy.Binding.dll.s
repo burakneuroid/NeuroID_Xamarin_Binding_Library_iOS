@@ -122,7 +122,7 @@ jit_code_start:
 	.align 4
 	.no_dead_strip ApiDefinitions_Messaging__cctor
 ApiDefinitions_Messaging__cctor:
-.file 1 "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/obj/Debug/iOS/ObjCRuntime/Messaging.g.cs"
+.file 1 "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/obj/Debug/iOS/ObjCRuntime/Messaging.g.cs"
 .loc 1 53 0 prologue_end
 .word 0xa9bc7bfd
 .word 0x910003fd
@@ -180,7 +180,7 @@ Lme_8:
 	.align 4
 	.no_dead_strip Binding_SwiftFrameworkProxy_get_ClassHandle
 Binding_SwiftFrameworkProxy_get_ClassHandle:
-.file 2 "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/obj/Debug/iOS/Binding/SwiftFrameworkProxy.g.cs"
+.file 2 "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/obj/Debug/iOS/Binding/SwiftFrameworkProxy.g.cs"
 .loc 2 55 0 prologue_end
 .word 0xa9bc7bfd
 .word 0x910003fd
@@ -2571,7 +2571,7 @@ runtime_version:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "7D08B8E6-3DF2-47A2-BDFE-CDF9C1C841B4"
+	.asciz "1AF9B9EE-BA0D-4A52-8E86-F6F1905A2454"
 .section __TEXT, __const
 	.align 2
 assembly_name:
@@ -2665,7 +2665,7 @@ _mono_aot_file_info:
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
-	.byte 43,112,125,197,56,198,82,91,224,182,91,19,76,40,12,159
+	.byte 253,30,55,248,188,3,230,170,155,147,136,147,204,117,66,123
 	.globl _mono_aot_module_SwiftFrameworkProxy_Binding_info
 	.align 3
 _mono_aot_module_SwiftFrameworkProxy_Binding_info:

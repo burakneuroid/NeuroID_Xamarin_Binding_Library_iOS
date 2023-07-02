@@ -6,3 +6,11 @@
 /Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/obj/Debug/SwiftFrameworkProxy.Binding.dll
 /Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/obj/Debug/SwiftFrameworkProxy.Binding.pdb
 /Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/obj/Debug/SwiftFrameworkProxy.Binding.csproj.AssemblyReference.cache
+/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/bin/Debug/SwiftFrameworkProxy.Binding.dll
+/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/bin/Debug/SwiftFrameworkProxy.Binding.pdb
+/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/obj/Debug/_ProcessedContentPath.items
+/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/obj/Debug/SwiftFrameworkProxy.Binding.csproj.AssemblyReference.cache
+/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/obj/Debug/SwiftFrameworkProxy.Binding.csproj.CoreCompileInputs.cache
+/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/obj/Debug/SwiftFrameworkProxy.Binding.dll
+/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/obj/Debug/SwiftFrameworkProxy.Binding.pdb

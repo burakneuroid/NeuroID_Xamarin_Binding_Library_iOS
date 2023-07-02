@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>false</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>Xamarin.SingleView.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-symbols.list</SymbolFile>
       <DSymName>Xamarin.SingleView.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView</SourceProjectPath>
+      <SourceProjectPath>/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

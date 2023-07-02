@@ -20,10 +20,14 @@
           "OpenTK-1.0"
         ],
         "compile": {
-          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+          "lib/xamarinios10/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+          "lib/xamarinios10/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Xamarin.iOS.SwiftRuntimeSupport/0.1.0": {
@@ -74,10 +78,14 @@
           "OpenTK-1.0"
         ],
         "compile": {
-          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+          "lib/xamarinios10/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+          "lib/xamarinios10/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Xamarin.iOS.SwiftRuntimeSupport/0.1.0": {
@@ -128,10 +136,14 @@
           "OpenTK-1.0"
         ],
         "compile": {
-          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+          "lib/xamarinios10/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+          "lib/xamarinios10/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Xamarin.iOS.SwiftRuntimeSupport/0.1.0": {
@@ -182,10 +194,14 @@
           "OpenTK-1.0"
         ],
         "compile": {
-          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+          "lib/xamarinios10/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+          "lib/xamarinios10/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Xamarin.iOS.SwiftRuntimeSupport/0.1.0": {
@@ -366,11 +382,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/Xamarin.SingleView.csproj",
+      "projectUniqueName": "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/Xamarin.SingleView.csproj",
       "projectName": "Xamarin.SingleView",
-      "projectPath": "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/Xamarin.SingleView.csproj",
+      "projectPath": "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/Xamarin.SingleView.csproj",
       "packagesPath": "/Users/burakkebapci/.nuget/packages/",
-      "outputPath": "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/",
+      "outputPath": "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -385,8 +401,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj": {
-              "projectPath": "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj"
+            "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj": {
+              "projectPath": "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj"
             }
           }
         }

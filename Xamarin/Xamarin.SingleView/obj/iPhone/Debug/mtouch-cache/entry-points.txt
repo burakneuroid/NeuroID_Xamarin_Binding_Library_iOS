@@ -1,34 +1,34 @@
 Function=SystemNative_ConvertErrorPlatformToPal
-	/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
 Function=SystemNative_ConvertErrorPalToPlatform
-	/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
 Function=SystemNative_StrErrorR
-	/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
 Function=SystemNative_GetNonCryptographicallySecureRandomBytes
-	/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
 Function=SystemNative_Stat2
-	/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
 Function=SystemNative_LStat2
-	/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
 Function=xamarin_timezone_get_local_name
-	/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
 Function=xamarin_timezone_get_data
-	/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
 Function=xamarin_log
-	/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
-	/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+	/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_release_managed_ref
-	/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+	/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_set_gchandle_with_flags_safe
-	/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+	/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_UIApplicationMain
-	/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+	/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_find_protocol_wrapper_type
-	/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+	/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_release_block_on_main_thread
-	/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+	/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_get_block_descriptor
-	/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+	/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
 ObjectiveCClass=OBJC_CLASS_$_SwiftFrameworkProxy
-	/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/SwiftFrameworkProxy.Binding.dll
+	/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-cache/1-Link/SwiftFrameworkProxy.Binding.dll
 Function=mono_pmip

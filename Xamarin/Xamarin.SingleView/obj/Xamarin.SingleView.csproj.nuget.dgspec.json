@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/Xamarin.SingleView.csproj": {}
+    "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/Xamarin.SingleView.csproj": {}
   },
   "projects": {
-    "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj": {
+    "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj",
+        "projectUniqueName": "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj",
         "projectName": "SwiftFrameworkProxy.Binding",
-        "projectPath": "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj",
+        "projectPath": "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj",
         "packagesPath": "/Users/burakkebapci/.nuget/packages/",
-        "outputPath": "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/obj/",
+        "outputPath": "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -33,14 +33,14 @@
         "xamarinios10": {}
       }
     },
-    "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/Xamarin.SingleView.csproj": {
+    "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/Xamarin.SingleView.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/Xamarin.SingleView.csproj",
+        "projectUniqueName": "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/Xamarin.SingleView.csproj",
         "projectName": "Xamarin.SingleView",
-        "projectPath": "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/Xamarin.SingleView.csproj",
+        "projectPath": "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/Xamarin.SingleView.csproj",
         "packagesPath": "/Users/burakkebapci/.nuget/packages/",
-        "outputPath": "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/",
+        "outputPath": "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -55,8 +55,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj": {
-                "projectPath": "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj"
+              "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj": {
+                "projectPath": "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj"
               }
             }
           }

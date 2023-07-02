@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj",
+      "projectUniqueName": "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj",
       "projectName": "SwiftFrameworkProxy.Binding",
-      "projectPath": "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj",
+      "projectPath": "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/SwiftFrameworkProxy.Binding.csproj",
       "packagesPath": "/Users/burakkebapci/.nuget/packages/",
-      "outputPath": "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/SwiftFrameworkProxy.Binding/obj/",
+      "outputPath": "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/SwiftFrameworkProxy.Binding/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

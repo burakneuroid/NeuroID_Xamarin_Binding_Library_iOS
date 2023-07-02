@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q54nATqYlUkZwU9aGWC3RpDy1owMBOEVo+c+F41yTtTIJI4yqRx+rlC8PTxHz1ZqjG9bxu0KAoocJwYURNRn7Q==",
+  "dgSpecHash": "MUvS6X+hM/Jmlrt+u2d0jiVeR4U64t06cJac0fm8+Mo/UMX8cjLnlSfU3Naf9RLTaozPzhBmWnT7G7ba2oq5vw==",
   "success": true,
-  "projectFilePath": "/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/Xamarin.SingleView.csproj",
+  "projectFilePath": "/Users/burakkebapci/Documents/GitHub/NeuroID_Xamarin_Binding_Library_iOS/Xamarin/Xamarin.SingleView/Xamarin.SingleView.csproj",
   "expectedPackageFiles": [
     "/Users/burakkebapci/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/burakkebapci/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
