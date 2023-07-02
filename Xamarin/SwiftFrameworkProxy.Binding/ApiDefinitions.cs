@@ -9,5 +9,12 @@ namespace Binding
     {
         [Export("startWithClientKey:siteId:production:")]
         string StartWithClientKey(string clientKey, string siteId, bool production);
+
+        [Export("setUserIdWithUserId:")]
+        string SetUserIdWithUserId(string userId);
+
+        [Export("stop")]
+        void stop();
+
     }
 }

@@ -1219,11 +1219,11 @@ exception_handling:
 	};
 
 	static const MTAssembly __xamarin_registration_assemblies [] = {
-		{ "Xamarin.SingleView", "085f9d70-d9a0-42b0-87d9-c4f1bc0637fa" }, 
+		{ "Xamarin.SingleView", "d213c0b3-c660-4ea9-9cad-7d880f60a198" }, 
 		{ "mscorlib", "aae03b95-719e-488f-8a16-3bae4d2b5dcb" }, 
 		{ "Xamarin.iOS", "e76ce714-49ac-4d14-85f7-8dd27d27dab7" }, 
 		{ "System", "ee6a1987-eb2f-48bd-b8b5-f0cf4659dd86" }, 
-		{ "SwiftFrameworkProxy.Binding", "d3d48083-4e9b-4adf-914d-35d7648540ed" }
+		{ "SwiftFrameworkProxy.Binding", "7d08b8e6-3df2-47a2-bdfe-cdf9c1c841b4" }
 	};
 
 	static const MTProtocolWrapperMap __xamarin_protocol_wrapper_map [] = {

@@ -23,10 +23,13 @@ namespace Xamarin.SingleView
             var result = _proxy.StartWithClientKey("key_live_9cKE1AM8ZHxeKIhCJ4eC9GTd", "form_yours920", true);
             System.Diagnostics.Debug.WriteLine(result);
             lblMessage.Text = result;
+
+            _proxy.SetUserIdWithUserId("BurakTestUser");
         }
 
         private void btnLogin_Tap(object sender, EventArgs e)
         {
+            _proxy.stop();
         }
     }
 }

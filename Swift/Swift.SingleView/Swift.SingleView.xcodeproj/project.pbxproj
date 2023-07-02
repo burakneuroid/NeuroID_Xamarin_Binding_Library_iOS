@@ -13,18 +13,21 @@
 		53C74C2F2347ECC6003AF4C6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 53C74C2D2347ECC6003AF4C6 /* Main.storyboard */; };
 		53C74C312347ECC8003AF4C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53C74C302347ECC8003AF4C6 /* Assets.xcassets */; };
 		53C74C342347ECC8003AF4C6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 53C74C322347ECC8003AF4C6 /* LaunchScreen.storyboard */; };
-		978ADD992A4F4AAA001FFAC4 /* SwiftFrameworkProxy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 978ADD912A4F4A94001FFAC4 /* SwiftFrameworkProxy.framework */; };
-		978ADD9A2A4F4AAA001FFAC4 /* SwiftFrameworkProxy.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 978ADD912A4F4A94001FFAC4 /* SwiftFrameworkProxy.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		973A86C12A4F961A0052E648 /* SwiftFrameworkProxy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 973A86C02A4F961A0052E648 /* SwiftFrameworkProxy.framework */; };
+		973A86C22A4F96200052E648 /* SwiftFrameworkProxy.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 973A86C02A4F961A0052E648 /* SwiftFrameworkProxy.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		973A86C42A4F96490052E648 /* NeuroID.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 973A86C32A4F96490052E648 /* NeuroID.framework */; };
+		973A86C52A4F964C0052E648 /* NeuroID.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 973A86C32A4F96490052E648 /* NeuroID.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		53ABCBAE2347F1000003F113 /* Embed Frameworks */ = {
+		97BA5D142A4F908500F978C0 /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				978ADD9A2A4F4AAA001FFAC4 /* SwiftFrameworkProxy.framework in Embed Frameworks */,
+				973A86C52A4F964C0052E648 /* NeuroID.framework in Embed Frameworks */,
+				973A86C22A4F96200052E648 /* SwiftFrameworkProxy.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -40,7 +43,8 @@
 		53C74C302347ECC8003AF4C6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		53C74C332347ECC8003AF4C6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		53C74C352347ECC8003AF4C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		978ADD912A4F4A94001FFAC4 /* SwiftFrameworkProxy.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SwiftFrameworkProxy.framework; sourceTree = "<group>"; };
+		973A86C02A4F961A0052E648 /* SwiftFrameworkProxy.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftFrameworkProxy.framework; path = ../../VendorFrameworks/SwiftFrameworkProxy.framework; sourceTree = "<group>"; };
+		973A86C32A4F96490052E648 /* NeuroID.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NeuroID.framework; path = ../../VendorFrameworks/NeuroID.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,7 +52,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				978ADD992A4F4AAA001FFAC4 /* SwiftFrameworkProxy.framework in Frameworks */,
+				973A86C12A4F961A0052E648 /* SwiftFrameworkProxy.framework in Frameworks */,
+				973A86C42A4F96490052E648 /* NeuroID.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -58,7 +63,6 @@
 		53ABCBA52347F0CB0003F113 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				978ADD912A4F4A94001FFAC4 /* SwiftFrameworkProxy.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -85,6 +89,8 @@
 			children = (
 				53C74C272347ECC6003AF4C6 /* AppDelegate.swift */,
 				53C74C292347ECC6003AF4C6 /* SceneDelegate.swift */,
+				973A86C02A4F961A0052E648 /* SwiftFrameworkProxy.framework */,
+				973A86C32A4F96490052E648 /* NeuroID.framework */,
 				53C74C2B2347ECC6003AF4C6 /* ViewController.swift */,
 				53C74C2D2347ECC6003AF4C6 /* Main.storyboard */,
 				53C74C302347ECC8003AF4C6 /* Assets.xcassets */,
@@ -104,13 +110,15 @@
 				53C74C202347ECC6003AF4C6 /* Sources */,
 				53C74C212347ECC6003AF4C6 /* Frameworks */,
 				53C74C222347ECC6003AF4C6 /* Resources */,
-				53ABCBAE2347F1000003F113 /* Embed Frameworks */,
+				97BA5D142A4F908500F978C0 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			name = Swift.SingleView;
+			packageProductDependencies = (
+			);
 			productName = Swift.SingleView;
 			productReference = 53C74C242347ECC6003AF4C6 /* Swift.SingleView.app */;
 			productType = "com.apple.product-type.application";
@@ -139,6 +147,8 @@
 				Base,
 			);
 			mainGroup = 53C74C1B2347ECC6003AF4C6;
+			packageReferences = (
+			);
 			productRefGroup = 53C74C252347ECC6003AF4C6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -313,11 +323,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = YN8QB992XW;
+				DEVELOPMENT_TEAM = 9V5WREKJ4Y;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SRCROOT)/../**",
 					"$(PROJECT_DIR)",
+					"$(PROJECT_DIR)/Swift.SingleView",
 				);
 				INFOPLIST_FILE = Swift.SingleView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -336,11 +347,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = YN8QB992XW;
+				DEVELOPMENT_TEAM = 9V5WREKJ4Y;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SRCROOT)/../**",
 					"$(PROJECT_DIR)",
+					"$(PROJECT_DIR)/Swift.SingleView",
 				);
 				INFOPLIST_FILE = Swift.SingleView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (

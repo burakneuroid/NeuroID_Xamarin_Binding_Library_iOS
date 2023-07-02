@@ -63,5 +63,9 @@ namespace ApiDefinitions {
 		public unsafe extern static IntPtr IntPtr_objc_msgSend_IntPtr_IntPtr_bool (IntPtr receiver, IntPtr selector, IntPtr arg1, IntPtr arg2, [MarshalAs (UnmanagedType.I1)] bool arg3);
 		[DllImport (LIBOBJC_DYLIB, EntryPoint="objc_msgSendSuper")]
 		public unsafe extern static IntPtr IntPtr_objc_msgSendSuper_IntPtr_IntPtr_bool (IntPtr receiver, IntPtr selector, IntPtr arg1, IntPtr arg2, [MarshalAs (UnmanagedType.I1)] bool arg3);
+		[DllImport (LIBOBJC_DYLIB, EntryPoint="objc_msgSend")]
+		public unsafe extern static void void_objc_msgSend (IntPtr receiver, IntPtr selector);
+		[DllImport (LIBOBJC_DYLIB, EntryPoint="objc_msgSendSuper")]
+		public unsafe extern static void void_objc_msgSendSuper (IntPtr receiver, IntPtr selector);
 	}
 }

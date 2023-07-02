@@ -4,40 +4,40 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/NeuroID.framework/Info.plist</key>
-		<data>
-		MogghZuPY6VBfQjv6oGlZm7aATQ=
-		</data>
-		<key>Frameworks/NeuroID.framework/NeuroID</key>
-		<data>
-		+z4VArHA78YG0xhKm/aGp8ZOhwg=
-		</data>
-		<key>Frameworks/NeuroID.framework/_CodeSignature/CodeResources</key>
-		<data>
-		aXoFIGjVH304AkUXZTk/Y1bGIhw=
-		</data>
 		<key>Info.plist</key>
 		<data>
 		SOWtvH9ig4PO+SUzCg7PhgYYUtc=
 		</data>
+		<key>NeuroID.framework/Info.plist</key>
+		<data>
+		MogghZuPY6VBfQjv6oGlZm7aATQ=
+		</data>
+		<key>NeuroID.framework/NeuroID</key>
+		<data>
+		W6tBHB71V1GuNFh65OdT+KwlKaA=
+		</data>
+		<key>NeuroID.framework/_CodeSignature/CodeResources</key>
+		<data>
+		aXoFIGjVH304AkUXZTk/Y1bGIhw=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/NeuroID.framework/Info.plist</key>
+		<key>NeuroID.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			ukTqhiJ5mmQr2GSG4yWN1ZU0m8mSETMS6hszH+TqBzE=
 			</data>
 		</dict>
-		<key>Frameworks/NeuroID.framework/NeuroID</key>
+		<key>NeuroID.framework/NeuroID</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yKFj99Lg5TeRZdZ4QkWBL1rcfloPsrRlhyzpY7hiJAk=
+			ZmdIgDGhcihYXsNcVaJpB2wj9giGG2olq8oE+0qa4dU=
 			</data>
 		</dict>
-		<key>Frameworks/NeuroID.framework/_CodeSignature/CodeResources</key>
+		<key>NeuroID.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>

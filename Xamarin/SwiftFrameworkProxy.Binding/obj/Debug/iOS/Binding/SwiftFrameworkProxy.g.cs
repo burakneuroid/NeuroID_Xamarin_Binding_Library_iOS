@@ -80,6 +80,22 @@ namespace Binding {
 			IsDirectBinding = GetType ().Assembly == global::ApiDefinitions.Messaging.this_assembly;
 		}
 
+		[Export ("setUserIdWithUserId:")]
+		[BindingImpl (BindingImplOptions.GeneratedCode | BindingImplOptions.Optimizable)]
+		public virtual string SetUserIdWithUserId (string userId)
+		{
+			if (userId is null)
+				ObjCRuntime.ThrowHelper.ThrowArgumentNullException (nameof (userId));
+			var nsuserId = CFString.CreateNative (userId);
+			string? ret;
+			if (IsDirectBinding) {
+				ret = CFString.FromHandle (global::ApiDefinitions.Messaging.IntPtr_objc_msgSend_IntPtr (this.Handle, Selector.GetHandle ("setUserIdWithUserId:"), nsuserId))!;
+			} else {
+				ret = CFString.FromHandle (global::ApiDefinitions.Messaging.IntPtr_objc_msgSendSuper_IntPtr (this.SuperHandle, Selector.GetHandle ("setUserIdWithUserId:"), nsuserId))!;
+			}
+			CFString.ReleaseNative (nsuserId);
+			return ret!;
+		}
 		[Export ("startWithClientKey:siteId:production:")]
 		[BindingImpl (BindingImplOptions.GeneratedCode | BindingImplOptions.Optimizable)]
 		public virtual string StartWithClientKey (string clientKey, string siteId, bool production)
@@ -99,6 +115,16 @@ namespace Binding {
 			CFString.ReleaseNative (nsclientKey);
 			CFString.ReleaseNative (nssiteId);
 			return ret!;
+		}
+		[Export ("stop")]
+		[BindingImpl (BindingImplOptions.GeneratedCode | BindingImplOptions.Optimizable)]
+		public virtual void stop ()
+		{
+			if (IsDirectBinding) {
+				global::ApiDefinitions.Messaging.void_objc_msgSend (this.Handle, Selector.GetHandle ("stop"));
+			} else {
+				global::ApiDefinitions.Messaging.void_objc_msgSendSuper (this.SuperHandle, Selector.GetHandle ("stop"));
+			}
 		}
 	} /* class SwiftFrameworkProxy */
 }

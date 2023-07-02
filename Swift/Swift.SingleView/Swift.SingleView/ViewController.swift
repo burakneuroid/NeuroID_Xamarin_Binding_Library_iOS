@@ -25,6 +25,8 @@ class ViewController: UIViewController {
         
         print(burak)
         
+        x.setUserId(userId: "ddd")
+        x.stop()
         
     }
     

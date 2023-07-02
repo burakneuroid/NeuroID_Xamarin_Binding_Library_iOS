@@ -1009,7 +1009,7 @@ bl _p_6
 .word 0xaa1a03e0
 .word 0xeb1f035f
 .word 0x10000011
-.word 0x54001300
+.word 0x54001520
 
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
@@ -1021,7 +1021,7 @@ bl _p_7
 .word 0xf94033a2
 .word 0xeb1f035f
 .word 0x10000011
-.word 0x54001140
+.word 0x54001360
 .word 0xd5033bbf
 .word 0xf900103a
 .word 0x91008020
@@ -1114,7 +1114,7 @@ ldr x2, [x16, #416]
 .word 0xaa0403e0
 .word 0xd2800023
 .word 0xf9400084
-.word 0xf940d490
+.word 0xf940d890
 .word 0xd63f0200
 .word 0xf9002ba0
 .word 0xf94013b1
@@ -1159,13 +1159,32 @@ bl _p_12
 .word 0xf942de31
 .word 0xb4000051
 .word 0xd63f0220
-.loc 4 26 0
+.loc 4 27 0
 .word 0xf94013b1
 .word 0xf942ee31
 .word 0xb4000051
 .word 0xd63f0220
+.word 0xaa1a03e0
+.word 0xf9401742
+
+adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
+add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
+ldr x1, [x16, #424]
+.word 0xaa0203e0
+.word 0xf9400042
+.word 0xf940dc50
+.word 0xd63f0200
 .word 0xf94013b1
-.word 0xf942fe31
+.word 0xf9432231
+.word 0xb4000051
+.word 0xd63f0220
+.loc 4 28 0
+.word 0xf94013b1
+.word 0xf9433231
+.word 0xb4000051
+.word 0xd63f0220
+.word 0xf94013b1
+.word 0xf9434231
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xa9416bb9
@@ -1184,7 +1203,7 @@ Lme_12:
 	.align 4
 	.no_dead_strip Xamarin_SingleView_ViewController_btnLogin_Tap_object_System_EventArgs
 Xamarin_SingleView_ViewController_btnLogin_Tap_object_System_EventArgs:
-.loc 4 29 0 prologue_end
+.loc 4 31 0 prologue_end
 .word 0xa9bc7bfd
 .word 0x910003fd
 .word 0xf9000ba0
@@ -1193,7 +1212,7 @@ Xamarin_SingleView_ViewController_btnLogin_Tap_object_System_EventArgs:
 
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #424]
+ldr x16, [x16, #432]
 .word 0xf90017b0
 .word 0xf9400211
 .word 0xf9001bb1
@@ -1209,13 +1228,28 @@ ldr x16, [x16, #424]
 .word 0xf9405231
 .word 0xb4000051
 .word 0xd63f0220
-.loc 4 30 0
+.loc 4 32 0
 .word 0xf94017b1
 .word 0xf9406231
 .word 0xb4000051
 .word 0xd63f0220
+.word 0xf9400ba0
+.word 0xf9401401
+.word 0xaa0103e0
+.word 0xf9400021
+.word 0xf940d430
+.word 0xd63f0200
 .word 0xf94017b1
-.word 0xf9407231
+.word 0xf9408a31
+.word 0xb4000051
+.word 0xd63f0220
+.loc 4 33 0
+.word 0xf94017b1
+.word 0xf9409a31
+.word 0xb4000051
+.word 0xd63f0220
+.word 0xf94017b1
+.word 0xf940aa31
 .word 0xb4000051
 .word 0xd63f0220
 .word 0x910003bf
@@ -1235,7 +1269,7 @@ Xamarin_SingleView_ViewController_get_btnLogin:
 
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #432]
+ldr x16, [x16, #440]
 .word 0xf9000fb0
 .word 0xf9400211
 .word 0xf90013b1
@@ -1274,7 +1308,7 @@ Xamarin_SingleView_ViewController_set_btnLogin_UIKit_UIButton:
 
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #440]
+ldr x16, [x16, #448]
 .word 0xf90013b0
 .word 0xf9400211
 .word 0xf90017b1
@@ -1328,7 +1362,7 @@ Xamarin_SingleView_ViewController_get_lblMessage:
 
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #448]
+ldr x16, [x16, #456]
 .word 0xf9000fb0
 .word 0xf9400211
 .word 0xf90013b1
@@ -1367,7 +1401,7 @@ Xamarin_SingleView_ViewController_set_lblMessage_UIKit_UILabel:
 
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #456]
+ldr x16, [x16, #464]
 .word 0xf90013b0
 .word 0xf9400211
 .word 0xf90017b1
@@ -1423,7 +1457,7 @@ Xamarin_SingleView_ViewController_ReleaseDesignerOutlets:
 
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #464]
+ldr x16, [x16, #472]
 .word 0xf90017b0
 .word 0xf9400211
 .word 0xf9001bb1
@@ -1661,133 +1695,133 @@ plt_UIKit_UIResponder__ctor:
 _p_1:
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #480]
+ldr x16, [x16, #488]
 br x16
-.word 191
+.word 196
 	.no_dead_strip plt_UIKit_UIApplication_Main_string___string_string
 plt_UIKit_UIApplication_Main_string___string_string:
 _p_2:
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #488]
+ldr x16, [x16, #496]
 br x16
-.word 196
+.word 201
 	.no_dead_strip plt_UIKit_UISceneConfiguration_Create_string_UIKit_UIWindowSceneSessionRole
 plt_UIKit_UISceneConfiguration_Create_string_UIKit_UIWindowSceneSessionRole:
 _p_3:
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #496]
+ldr x16, [x16, #504]
 br x16
-.word 201
+.word 206
 	.no_dead_strip plt_UIKit_UIViewController__ctor_intptr
 plt_UIKit_UIViewController__ctor_intptr:
 _p_4:
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #504]
+ldr x16, [x16, #512]
 br x16
-.word 206
+.word 211
 	.no_dead_strip plt_UIKit_UIViewController_ViewDidLoad
 plt_UIKit_UIViewController_ViewDidLoad:
 _p_5:
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #512]
+ldr x16, [x16, #520]
 br x16
-.word 211
+.word 216
 	.no_dead_strip plt_Xamarin_SingleView_ViewController_get_btnLogin
 plt_Xamarin_SingleView_ViewController_get_btnLogin:
 _p_6:
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #520]
+ldr x16, [x16, #528]
 br x16
-.word 216
+.word 221
 	.no_dead_strip plt_wrapper_alloc_object_AllocSmall_intptr_intptr
 plt_wrapper_alloc_object_AllocSmall_intptr_intptr:
 _p_7:
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #528]
+ldr x16, [x16, #536]
 br x16
-.word 218
+.word 223
 	.no_dead_strip plt_UIKit_UIControl_add_TouchUpInside_System_EventHandler
 plt_UIKit_UIControl_add_TouchUpInside_System_EventHandler:
 _p_8:
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #536]
+ldr x16, [x16, #544]
 br x16
-.word 226
+.word 231
 	.no_dead_strip plt__jit_icall_ves_icall_object_new_specific
 plt__jit_icall_ves_icall_object_new_specific:
 _p_9:
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #544]
+ldr x16, [x16, #552]
 br x16
-.word 231
+.word 236
 	.no_dead_strip plt_Binding_SwiftFrameworkProxy__ctor
 plt_Binding_SwiftFrameworkProxy__ctor:
 _p_10:
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #552]
+ldr x16, [x16, #560]
 br x16
-.word 234
+.word 239
 	.no_dead_strip plt_System_Diagnostics_Debug_WriteLine_string
 plt_System_Diagnostics_Debug_WriteLine_string:
 _p_11:
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #560]
+ldr x16, [x16, #568]
 br x16
-.word 239
+.word 244
 	.no_dead_strip plt_Xamarin_SingleView_ViewController_get_lblMessage
 plt_Xamarin_SingleView_ViewController_get_lblMessage:
 _p_12:
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #568]
+ldr x16, [x16, #576]
 br x16
-.word 244
+.word 249
 	.no_dead_strip plt__jit_icall_mono_arch_throw_corlib_exception
 plt__jit_icall_mono_arch_throw_corlib_exception:
 _p_13:
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #576]
+ldr x16, [x16, #584]
 br x16
-.word 246
+.word 251
 	.no_dead_strip plt_Foundation_NSObject_Dispose
 plt_Foundation_NSObject_Dispose:
 _p_14:
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #584]
+ldr x16, [x16, #592]
 br x16
-.word 248
+.word 253
 	.no_dead_strip plt_Xamarin_SingleView_ViewController_set_lblMessage_UIKit_UILabel
 plt_Xamarin_SingleView_ViewController_set_lblMessage_UIKit_UILabel:
 _p_15:
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #592]
+ldr x16, [x16, #600]
 br x16
-.word 253
+.word 258
 	.no_dead_strip plt_Xamarin_SingleView_ViewController_set_btnLogin_UIKit_UIButton
 plt_Xamarin_SingleView_ViewController_set_btnLogin_UIKit_UIButton:
 _p_16:
 adrp x16, mono_aot_Xamarin_SingleView_got@PAGE+0
 add x16, x16, mono_aot_Xamarin_SingleView_got@PAGEOFF
-ldr x16, [x16, #600]
+ldr x16, [x16, #608]
 br x16
-.word 255
+.word 260
 plt_end:
 .section __DATA, __bss
 	.align 3
-.lcomm mono_aot_Xamarin_SingleView_got, 608
+.lcomm mono_aot_Xamarin_SingleView_got, 616
 got_end:
 .section __TEXT, __const
 	.align 3
@@ -1810,7 +1844,7 @@ runtime_version:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "085F9D70-D9A0-42B0-87D9-C4F1BC0637FA"
+	.asciz "D213C0B3-C660-4EA9-9CAD-7D880F60A198"
 .section __TEXT, __const
 	.align 2
 assembly_name:
@@ -1897,14 +1931,14 @@ _mono_aot_file_info:
 	.align 3
 	.quad unbox_trampoline_addresses
 
-	.long 59,608,17,26,0,102,387000831,0
-	.long 2623,128,8,8,8,9,8388607,0
-	.long 4,25,3536,0,0,904,456,208
+	.long 60,616,17,26,0,102,387000831,0
+	.long 2687,128,8,8,8,9,8388607,0
+	.long 4,25,3600,0,0,904,456,208
 	.long 0,360,424,264,0,200,56,896
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
-	.byte 81,59,131,73,38,171,57,199,20,67,230,181,255,122,91,4
+	.byte 38,161,79,130,116,148,179,96,195,68,43,98,145,94,124,35
 	.globl _mono_aot_module_Xamarin_SingleView_info
 	.align 3
 _mono_aot_module_Xamarin_SingleView_info:
@@ -3319,7 +3353,7 @@ LDIFF_SYM192=LTDIE_25 - Ldebug_info_start
 	.asciz "Xamarin.SingleView.ViewController:btnLogin_Tap"
 	.asciz "Xamarin_SingleView_ViewController_btnLogin_Tap_object_System_EventArgs"
 
-	.byte 4,29
+	.byte 4,31
 	.quad Xamarin_SingleView_ViewController_btnLogin_Tap_object_System_EventArgs
 	.quad Lme_13
 

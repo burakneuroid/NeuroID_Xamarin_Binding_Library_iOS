@@ -4,21 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/NeuroID.framework/Info.plist</key>
-		<data>
-		MogghZuPY6VBfQjv6oGlZm7aATQ=
-		</data>
-		<key>Frameworks/NeuroID.framework/NeuroID</key>
-		<data>
-		+z4VArHA78YG0xhKm/aGp8ZOhwg=
-		</data>
-		<key>Frameworks/NeuroID.framework/_CodeSignature/CodeResources</key>
-		<data>
-		aXoFIGjVH304AkUXZTk/Y1bGIhw=
-		</data>
 		<key>Headers/SwiftFrameworkProxy-Swift.h</key>
 		<data>
-		lgvhRMpWSrtiABZ85u+zoT3pAyI=
+		hg47iimAJ1cgYzJpsrh9dRreDU4=
 		</data>
 		<key>Headers/SwiftFrameworkProxy.h</key>
 		<data>
@@ -30,7 +18,7 @@
 		</data>
 		<key>Modules/SwiftFrameworkProxy.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		krPsRmK8nkR5P+mh/PPQd5e1b+Q=
+		k1QqxmGBg1QyCRJsaDh19aqtyJ4=
 		</data>
 		<key>Modules/SwiftFrameworkProxy.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -42,41 +30,32 @@
 		</data>
 		<key>Modules/SwiftFrameworkProxy.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		AdIoyclfycyg32gQrkCjguZO6lY=
+		QlcvV/0r+jSaXhumSC0XMRKXdug=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		srOfJafMMOxZsT/KdTzErt9YbiY=
 		</data>
+		<key>NeuroID.framework/Info.plist</key>
+		<data>
+		MogghZuPY6VBfQjv6oGlZm7aATQ=
+		</data>
+		<key>NeuroID.framework/NeuroID</key>
+		<data>
+		W6tBHB71V1GuNFh65OdT+KwlKaA=
+		</data>
+		<key>NeuroID.framework/_CodeSignature/CodeResources</key>
+		<data>
+		aXoFIGjVH304AkUXZTk/Y1bGIhw=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/NeuroID.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ukTqhiJ5mmQr2GSG4yWN1ZU0m8mSETMS6hszH+TqBzE=
-			</data>
-		</dict>
-		<key>Frameworks/NeuroID.framework/NeuroID</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yKFj99Lg5TeRZdZ4QkWBL1rcfloPsrRlhyzpY7hiJAk=
-			</data>
-		</dict>
-		<key>Frameworks/NeuroID.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KhSdLhBMRiQZ3yvvied9oOyZ7NVPIHUE287yIcEIjEg=
-			</data>
-		</dict>
 		<key>Headers/SwiftFrameworkProxy-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DfAHEwoFOQR+x4InkdeblxsLo4scv09tHL/cAu2NkTE=
+			8qoC3i+XaLZhGao8jWwgA8o4VrvS5INsudHGuTR+CaE=
 			</data>
 		</dict>
 		<key>Headers/SwiftFrameworkProxy.h</key>
@@ -90,7 +69,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1dDTZeZGpvWOgT/XqVKTr3fIv5DOU4IUk6hoUnR3dDQ=
+			nRYhPj8+A2mkVag1ObgBkU7q3ZkV/m0dhszKx4tWPe4=
 			</data>
 		</dict>
 		<key>Modules/SwiftFrameworkProxy.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -111,7 +90,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8aeHa2kHQ3UOVDkRQiqEX5BRZ/MvxETSVvUZg3YN0ss=
+			uz5KXsMay0H8gs5d4RU/3KcDfOB+l34y7PALp/wuod4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -119,6 +98,27 @@
 			<key>hash2</key>
 			<data>
 			b//CCh11wJrOhhIFLfl638tftLAvtDMJzyOIZTHJrhU=
+			</data>
+		</dict>
+		<key>NeuroID.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ukTqhiJ5mmQr2GSG4yWN1ZU0m8mSETMS6hszH+TqBzE=
+			</data>
+		</dict>
+		<key>NeuroID.framework/NeuroID</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZmdIgDGhcihYXsNcVaJpB2wj9giGG2olq8oE+0qa4dU=
+			</data>
+		</dict>
+		<key>NeuroID.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KhSdLhBMRiQZ3yvvied9oOyZ7NVPIHUE287yIcEIjEg=
 			</data>
 		</dict>
 	</dict>

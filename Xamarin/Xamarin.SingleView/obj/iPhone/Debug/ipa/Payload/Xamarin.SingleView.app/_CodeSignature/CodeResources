@@ -16,15 +16,15 @@
 		<data>
 		X5IhqSF2qg9B+DSW3kgdEdtCycc=
 		</data>
-		<key>Frameworks/SwiftFrameworkProxy.framework/Frameworks/NeuroID.framework/Info.plist</key>
+		<key>Frameworks/NeuroID.framework/Info.plist</key>
 		<data>
 		MogghZuPY6VBfQjv6oGlZm7aATQ=
 		</data>
-		<key>Frameworks/SwiftFrameworkProxy.framework/Frameworks/NeuroID.framework/NeuroID</key>
+		<key>Frameworks/NeuroID.framework/NeuroID</key>
 		<data>
-		+z4VArHA78YG0xhKm/aGp8ZOhwg=
+		ZOAz3TAvh3vFX7hfFQh53WRKi5o=
 		</data>
-		<key>Frameworks/SwiftFrameworkProxy.framework/Frameworks/NeuroID.framework/_CodeSignature/CodeResources</key>
+		<key>Frameworks/NeuroID.framework/_CodeSignature/CodeResources</key>
 		<data>
 		aXoFIGjVH304AkUXZTk/Y1bGIhw=
 		</data>
@@ -32,13 +32,25 @@
 		<data>
 		SOWtvH9ig4PO+SUzCg7PhgYYUtc=
 		</data>
+		<key>Frameworks/SwiftFrameworkProxy.framework/NeuroID.framework/Info.plist</key>
+		<data>
+		MogghZuPY6VBfQjv6oGlZm7aATQ=
+		</data>
+		<key>Frameworks/SwiftFrameworkProxy.framework/NeuroID.framework/NeuroID</key>
+		<data>
+		W6tBHB71V1GuNFh65OdT+KwlKaA=
+		</data>
+		<key>Frameworks/SwiftFrameworkProxy.framework/NeuroID.framework/_CodeSignature/CodeResources</key>
+		<data>
+		aXoFIGjVH304AkUXZTk/Y1bGIhw=
+		</data>
 		<key>Frameworks/SwiftFrameworkProxy.framework/SwiftFrameworkProxy</key>
 		<data>
-		v9ld6Kgt/wc33Pw9JDqprScaGVE=
+		H0RZgaYRLbYRSQxUZnPTmi7SqIk=
 		</data>
 		<key>Frameworks/SwiftFrameworkProxy.framework/_CodeSignature/CodeResources</key>
 		<data>
-		bARAA7fNHKcDkM6Jd4XNAWO93OY=
+		x5lJIZD63Bb57VBQb5J2m34UaGA=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -58,7 +70,7 @@
 		</data>
 		<key>Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		rYgdSqg3EhAfaInwG7xvtFqCDxk=
+		kLEpXjG0DIf9KfU++N94WGwn11s=
 		</data>
 		<key>Main.storyboardc/Info.plist</key>
 		<data>
@@ -82,15 +94,15 @@
 		</data>
 		<key>SwiftFrameworkProxy.Binding.aotdata.arm64</key>
 		<data>
-		waeyFj7p+R0GDzeGx47STtXxp2I=
+		6BBKdz9uiFS4gAiJOoVM8aetfJY=
 		</data>
 		<key>SwiftFrameworkProxy.Binding.dll</key>
 		<data>
-		rhXX2LT9WvLow7uqGsb1ujzpL+c=
+		ehuMQXuhniyzX0s2C+ehmHgHQK4=
 		</data>
 		<key>SwiftFrameworkProxy.Binding.pdb</key>
 		<data>
-		A3JOxnmdZ/61rpCiLKhEMg8MZXk=
+		rtQTF/GJfS1IqV36ImWwUZ7GDT0=
 		</data>
 		<key>System.aotdata.arm64</key>
 		<data>
@@ -106,15 +118,15 @@
 		</data>
 		<key>Xamarin.SingleView.aotdata.arm64</key>
 		<data>
-		MiNoC1xTC3o68+yGeVruLXPIOiE=
+		llKuZZMFO2HrlkwLxubcbg9SfTg=
 		</data>
 		<key>Xamarin.SingleView.exe</key>
 		<data>
-		TKSbRLG+Ij/5DGUgeNH+7vhsN6A=
+		S+eiSnVpUjPWr4MzR0BEfiyKlkQ=
 		</data>
 		<key>Xamarin.SingleView.pdb</key>
 		<data>
-		bgbZzoMdcXUXC34IG+S1qVlRQY8=
+		F1DpQ8HgKm+vAdUzoz9a9SCL1Fc=
 		</data>
 		<key>Xamarin.iOS.aotdata.arm64</key>
 		<data>
@@ -134,7 +146,7 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		I1B4wjzJgWiU6tiRCySyy1ATCNU=
+		PBUotXnZSI4REGdT5AKS+TGmc+U=
 		</data>
 		<key>mscorlib.aotdata.arm64</key>
 		<data>
@@ -172,21 +184,21 @@
 			TcTSoWIJPYGSSq0ErY77uP0P+eJf5nZlOCPt8jPm02s=
 			</data>
 		</dict>
-		<key>Frameworks/SwiftFrameworkProxy.framework/Frameworks/NeuroID.framework/Info.plist</key>
+		<key>Frameworks/NeuroID.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			ukTqhiJ5mmQr2GSG4yWN1ZU0m8mSETMS6hszH+TqBzE=
 			</data>
 		</dict>
-		<key>Frameworks/SwiftFrameworkProxy.framework/Frameworks/NeuroID.framework/NeuroID</key>
+		<key>Frameworks/NeuroID.framework/NeuroID</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yKFj99Lg5TeRZdZ4QkWBL1rcfloPsrRlhyzpY7hiJAk=
+			X2UExUlHIZPrh7qHhqrkyLihZpa1qyCVKUfcsJvccJY=
 			</data>
 		</dict>
-		<key>Frameworks/SwiftFrameworkProxy.framework/Frameworks/NeuroID.framework/_CodeSignature/CodeResources</key>
+		<key>Frameworks/NeuroID.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -200,18 +212,39 @@
 			PMy9VJrp8y5Kjppzm5/nHS75VCpksPaIuD70OT3LiZg=
 			</data>
 		</dict>
+		<key>Frameworks/SwiftFrameworkProxy.framework/NeuroID.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ukTqhiJ5mmQr2GSG4yWN1ZU0m8mSETMS6hszH+TqBzE=
+			</data>
+		</dict>
+		<key>Frameworks/SwiftFrameworkProxy.framework/NeuroID.framework/NeuroID</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZmdIgDGhcihYXsNcVaJpB2wj9giGG2olq8oE+0qa4dU=
+			</data>
+		</dict>
+		<key>Frameworks/SwiftFrameworkProxy.framework/NeuroID.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KhSdLhBMRiQZ3yvvied9oOyZ7NVPIHUE287yIcEIjEg=
+			</data>
+		</dict>
 		<key>Frameworks/SwiftFrameworkProxy.framework/SwiftFrameworkProxy</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DFrv6HHC5cMMrzZ/fuYMLPbOt3nX35u6Lswr+lbYexE=
+			b9IHysHneEorz4hTJCLmrsDDg05od3mOgLWqRyxnr7M=
 			</data>
 		</dict>
 		<key>Frameworks/SwiftFrameworkProxy.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h/p+HNTLnPjNVmLNXbvyWicqq84pUtARze3jSVLbqjY=
+			CKvsqfJM0ABEghZf5e+d23iAAkJSadblOvRXcxfljF8=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -239,7 +272,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0GdAkeixXqK/iSbeFQkC41Qt4335CJ3Ndryp6DrlSyE=
+			KmcyIKraKOIoZDBO8BzmlYfMgVzuAWQbjXSoOnOOwzE=
 			</data>
 		</dict>
 		<key>Main.storyboardc/Info.plist</key>
@@ -274,21 +307,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			agNWCgCN9lmGDfLIOwGeF66xC9ct2yQdnKGvz22rHcM=
+			/t6GXambbTmgW6dikOHQhVaei4CLzrfStO5ofsbaoEE=
 			</data>
 		</dict>
 		<key>SwiftFrameworkProxy.Binding.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TFIzBL6jvJpMVFsSiOtfR6CrXGkeRVtrK/aFOqjRUEw=
+			AV9+74zbWVnZsQ0L24ZtyD6Wu/pTZkGPgsYW5cX7/Mk=
 			</data>
 		</dict>
 		<key>SwiftFrameworkProxy.Binding.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dHiqy/KW/3kU9nFvF7HvNj9N1MbADrsuAiebtrnml9I=
+			+W6ru+JB2ROFoAP/mRIVGRgK5VXCIidyBtRSTLVMZXo=
 			</data>
 		</dict>
 		<key>System.aotdata.arm64</key>
@@ -316,21 +349,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qTUvlmlwWrCG9kXZYmxjuKcNBWf/5c1KE/ersAjUju0=
+			4YNOhP4qx7i4L4oMNA7FCDFtgqZHemjINkq5CO0pXLE=
 			</data>
 		</dict>
 		<key>Xamarin.SingleView.exe</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vv6v4lGKUjKcoHYccw80ul/d3gzn3vvYCQifMdDg77U=
+			5cxhlThOx5wDOKWvYT1IvqBCDwdijke77v2HzFFjYdI=
 			</data>
 		</dict>
 		<key>Xamarin.SingleView.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sxe2F/j6BOwuZaWR36gW8GhBXIddyf0wTPzs33Cefw4=
+			qdA829vHnQa0nDgznlqG5x5/V8nBa2TrO5RQeBUM0T4=
 			</data>
 		</dict>
 		<key>Xamarin.iOS.aotdata.arm64</key>
@@ -365,7 +398,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hpBJmr5b8xdQnCBctI3vrn5/6tjTYmuRqnpuDCGLjFs=
+			xAWbba+HG+XXVVEW7E7K5J3S0WcSFJeMV/Zn+2atmlc=
 			</data>
 		</dict>
 		<key>mscorlib.aotdata.arm64</key>

@@ -13,8 +13,12 @@
 /Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/Xamarin.SingleView.csproj.CoreCompileInputs.cache
 /Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/bin/iPhone/Debug/Xamarin.SingleView.exe
 /Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/bin/iPhone/Debug/Xamarin.SingleView.pdb
+/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/bin/iPhone/Debug/Xamarin.Essentials.dll
+/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/bin/iPhone/Debug/Xamarin.Essentials.pdb
+/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/bin/iPhone/Debug/Calabash.dll
 /Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/bin/iPhone/Debug/SwiftFrameworkProxy.Binding.dll
 /Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/bin/iPhone/Debug/SwiftFrameworkProxy.Binding.pdb
 /Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/Xamarin.SingleView.csproj.CopyComplete
 /Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/Xamarin.SingleView.exe
 /Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/Xamarin.SingleView.pdb
+/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/resourcestamps/SwiftFrameworkProxy.Binding.stamp

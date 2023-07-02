@@ -80,7 +80,9 @@
 
 @interface SwiftFrameworkProxy : NSObject {
 }
+	-(NSString *) setUserIdWithUserId:(NSString *)p0;
 	-(NSString *) startWithClientKey:(NSString *)p0 siteId:(NSString *)p1 production:(BOOL)p2;
+	-(void) stop;
 	-(id) init;
 @end
 

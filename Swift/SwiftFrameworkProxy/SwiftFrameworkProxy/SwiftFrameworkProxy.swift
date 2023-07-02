@@ -26,6 +26,16 @@ public class SwiftFrameworkProxy : NSObject {
 
            return uuid
        }
+    
+    @objc
+    public func setUserId(userId:String) -> String {
+            NeuroID.setUserID(userId)
+        return "Success"
+    }
 
-
+    @objc
+    public func stop() -> String {
+        NeuroID.stop()
+        return "\(NeuroID.isStopped())" 
+    }
 }

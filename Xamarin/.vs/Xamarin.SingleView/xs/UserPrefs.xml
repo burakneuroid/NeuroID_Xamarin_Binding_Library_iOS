@@ -1,20 +1,22 @@
 ﻿<Properties StartupConfiguration="{6B201704-209A-45E3-8F19-0DB01BCD68D7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/16.4.0.6/lib/msbuild/iOS/Xamarin.Shared.targets">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin.SingleView/ViewController.cs">
     <Files>
       <File FileName="Xamarin.SingleView/ViewController.cs" Line="27" Column="1" />
-      <File FileName="Xamarin.SingleView/AppDelegate.cs" Line="26" Column="26" />
       <File FileName="Xamarin.SingleView/Info.plist" />
-      <File FileName="../../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.Shared.targets" Line="1714" Column="3" />
+      <File FileName="../../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.Shared.targets" />
+      <File FileName="SwiftFrameworkProxy.Binding/ApiDefinitions.cs" />
+      <File FileName="Xamarin.SingleView/Main.storyboard" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Xamarin.SingleView" expanded="True">
-            <Node name="SwiftFrameworkProxy.Binding" expanded="True" />
+            <Node name="SwiftFrameworkProxy.Binding" expanded="True">
+              <Node name="NativeReferenceFolder" expanded="True" />
+            </Node>
             <Node name="Xamarin.SingleView" expanded="True">
               <Node name="References" expanded="True" />
-              <Node name="Info.plist" selected="True" />
-              <Node name="ViewController.cs" expanded="True" />
+              <Node name="ViewController.cs" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>
@@ -25,11 +27,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/ViewController.cs" relfile="Xamarin.SingleView/ViewController.cs" line="18" column="1" />
-      <Breakpoint file="/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/ViewController.cs" relfile="Xamarin.SingleView/ViewController.cs" line="20" column="1" />
-      <Breakpoint file="/Users/burakkebapci/Desktop/SwiftBinding/Xamarin/Xamarin.SingleView/ViewController.cs" relfile="Xamarin.SingleView/ViewController.cs" line="21" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
