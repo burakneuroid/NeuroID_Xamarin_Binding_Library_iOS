@@ -28,6 +28,12 @@ public class SwiftFrameworkProxy : NSObject {
        }
     
     @objc
+    public func setScreenName(screenName:String) -> String {
+            NeuroID.setScreenName(screen: screenName)
+        return "Success"
+    }
+    
+    @objc
     public func setUserId(userId:String) -> String {
             NeuroID.setUserID(userId)
         return "Success"
