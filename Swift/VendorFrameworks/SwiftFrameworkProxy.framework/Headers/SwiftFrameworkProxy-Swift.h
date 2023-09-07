@@ -286,6 +286,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 SWIFT_CLASS_NAMED("SwiftFrameworkProxy")
 @interface SwiftFrameworkProxy : NSObject
 - (NSString * _Nonnull)startWithClientKey:(NSString * _Nonnull)clientKey siteId:(NSString * _Nonnull)siteId production:(BOOL)production SWIFT_WARN_UNUSED_RESULT;
+- (NSString * _Nonnull)setScreenNameWithScreenName:(NSString * _Nonnull)screenName SWIFT_WARN_UNUSED_RESULT;
 - (NSString * _Nonnull)setUserIdWithUserId:(NSString * _Nonnull)userId SWIFT_WARN_UNUSED_RESULT;
 - (NSString * _Nonnull)stop SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;

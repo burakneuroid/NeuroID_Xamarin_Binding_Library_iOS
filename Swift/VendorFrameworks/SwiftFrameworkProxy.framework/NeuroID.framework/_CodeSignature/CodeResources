@@ -4,32 +4,161 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Info.plist</key>
+		<key>Resources/index.html</key>
 		<data>
-		MogghZuPY6VBfQjv6oGlZm7aATQ=
+		8niYlrcutJc+frduzEvoqNcN/v0=
+		</data>
+		<key>Resources/server.js</key>
+		<data>
+		xZIRkbKZrCqhEcSBqiYnhNvnlL4=
+		</data>
+		<key>Resources/static/css/main.9f50fbe6.css</key>
+		<data>
+		wJG2+WU4vrZccCU1AB5yz7XP774=
+		</data>
+		<key>Resources/static/css/main.9f50fbe6.css.map</key>
+		<data>
+		P1WRfI5hFm0vmSJpN//odARWrXM=
+		</data>
+		<key>Resources/static/js/main.5d9e2cc1.js</key>
+		<data>
+		bmV7uycplI9cPrLhYDDZMdym2uA=
+		</data>
+		<key>Resources/static/js/main.5d9e2cc1.js.LICENSE.txt</key>
+		<data>
+		Ea6BYB5a8vl37Kbx+4D3NHTdW90=
+		</data>
+		<key>Resources/static/js/main.5d9e2cc1.js.map</key>
+		<data>
+		UwL6G0BMo4pENyOqY+LNKg8RaYM=
+		</data>
+		<key>Resources/static/media/c-warning.fe0bab0784038253b2e1660525d18b63.svg</key>
+		<data>
+		jYwmhYi6d5JQl45frDovG4+QmrA=
+		</data>
+		<key>Resources/static/media/f-check.610bbc99fb6c9f96a05bb167cff3e716.svg</key>
+		<data>
+		gaMis+1RgSi9rnbFXRAfSAhnLuw=
+		</data>
+		<key>Resources/static/media/s-add.427c9395233f27f8c627736b7cd004eb.svg</key>
+		<data>
+		uDXbtTXFDHf6afOsJ83jPbeaNEE=
+		</data>
+		<key>Resources/static/media/s-delete.9853df18e3f05d171031070acc0a1c61.svg</key>
+		<data>
+		GGLjsX+Lx7vpdzManU407jruNck=
+		</data>
+		<key>Resources/static/media/warning-sign.2e860857db38390072e6b2558eb18ab9.svg</key>
+		<data>
+		cMsqyjE6wlNcVjgsGduRXxSThM4=
 		</data>
 	</dict>
 	<key>files2</key>
-	<dict/>
+	<dict>
+		<key>Resources/index.html</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AGUmVJ5V6nU2NVIKzu3vZSS8DzEyVBqfFFX7KmUgnlg=
+			</data>
+		</dict>
+		<key>Resources/server.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ofuWaHys4pXagEQoye0JnWpNbDTl6N3j6R363s7zoRU=
+			</data>
+		</dict>
+		<key>Resources/static/css/main.9f50fbe6.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1dpzdzzqaq3F/x/P+XRl1CLQDhAmSGhKJA5ZfQXgA70=
+			</data>
+		</dict>
+		<key>Resources/static/css/main.9f50fbe6.css.map</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R7ufac9zlJ848ZykfoJR/NmNYEUm8j+H+5xWydLk8Ic=
+			</data>
+		</dict>
+		<key>Resources/static/js/main.5d9e2cc1.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D5M6Iea1MDtKDA8BzGCqWuMSZJzehzpSOj6TbZXhIpI=
+			</data>
+		</dict>
+		<key>Resources/static/js/main.5d9e2cc1.js.LICENSE.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QNx16VdNlsIZqzidDR4mrT6LEaUf1XSUC13NhAfZ5l8=
+			</data>
+		</dict>
+		<key>Resources/static/js/main.5d9e2cc1.js.map</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/lFj1l51ms5wDPeI0Mq7vPf/3gLjRZ+2z2WIBpmdx3g=
+			</data>
+		</dict>
+		<key>Resources/static/media/c-warning.fe0bab0784038253b2e1660525d18b63.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d/U+WdIxAEfeyFpN8N8NlB7iT3J8Gq2aBa4vASY9YCA=
+			</data>
+		</dict>
+		<key>Resources/static/media/f-check.610bbc99fb6c9f96a05bb167cff3e716.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			21zW54vceG/+HlcD5SEBDATiV1ymQcKidSWbl2cIaXc=
+			</data>
+		</dict>
+		<key>Resources/static/media/s-add.427c9395233f27f8c627736b7cd004eb.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AqPNyampLkt7asQbZSNX/63K612pMUCzA2lyH18KiBI=
+			</data>
+		</dict>
+		<key>Resources/static/media/s-delete.9853df18e3f05d171031070acc0a1c61.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HXTPUtTVAMTj1KyCqQ0oYZ5iZwatMZO8YOk8CGZSEbs=
+			</data>
+		</dict>
+		<key>Resources/static/media/warning-sign.2e860857db38390072e6b2558eb18ab9.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pIrHnmMJb5cptwf36HgtUmFSI51Nbl70k4+4Ok3YSgE=
+			</data>
+		</dict>
+	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^.*</key>
+		<key>^Resources/</key>
 		<true/>
-		<key>^.*\.lproj/</key>
+		<key>^Resources/.*\.lproj/</key>
 		<dict>
 			<key>optional</key>
 			<true/>
 			<key>weight</key>
 			<real>1000</real>
 		</dict>
-		<key>^.*\.lproj/locversion.plist$</key>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
 		</dict>
-		<key>^Base\.lproj/</key>
+		<key>^Resources/Base\.lproj/</key>
 		<dict>
 			<key>weight</key>
 			<real>1010</real>
@@ -51,27 +180,15 @@
 			<key>weight</key>
 			<real>2000</real>
 		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
 		<key>^.*</key>
 		<true/>
-		<key>^.*\.lproj/</key>
-		<dict>
-			<key>optional</key>
-			<true/>
-			<key>weight</key>
-			<real>1000</real>
-		</dict>
-		<key>^.*\.lproj/locversion.plist$</key>
-		<dict>
-			<key>omit</key>
-			<true/>
-			<key>weight</key>
-			<real>1100</real>
-		</dict>
-		<key>^Base\.lproj/</key>
-		<dict>
-			<key>weight</key>
-			<real>1010</real>
-		</dict>
 		<key>^Info\.plist$</key>
 		<dict>
 			<key>omit</key>
@@ -85,6 +202,37 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
