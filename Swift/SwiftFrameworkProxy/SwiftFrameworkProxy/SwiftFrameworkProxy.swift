@@ -15,28 +15,34 @@ public class SwiftFrameworkProxy : NSObject {
 
     @objc
        public func startWith(clientKey: String, siteId:String, production:Bool ) -> String {
-         
-           let uuid = UUID().uuidString
-           
+                    
            NeuroID.configure(clientKey: clientKey)
            NeuroID.setSiteId(siteId: siteId)
            NeuroID.setEnvironmentProduction(production)
-           NeuroID.setUserID(uuid)
            NeuroID.start()
 
-           return uuid
+           return "NeuroID Succesfully Started!"
        }
     
     @objc
     public func setScreenName(screenName:String) -> String {
-            NeuroID.setScreenName(screen: screenName)
-        return "Success"
+           
+        do {
+          try NeuroID.setScreenName(screen: screenName)
+        } catch {
+          return "NeuroID - Set ScreenName Failed"
+        }
+        return "NeuroID - Set ScreenName Successful"
     }
     
     @objc
     public func setUserId(userId:String) -> String {
-            NeuroID.setUserID(userId)
-        return "Success"
+        do {
+          try NeuroID.setUserID(userId)
+        } catch {
+          return "NeuroID - Invalid UserId being set"
+        }
+        return "NeuroID - User ID Set Successful"
     }
 
     @objc
