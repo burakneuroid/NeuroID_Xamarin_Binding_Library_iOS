@@ -9,19 +9,29 @@
 /* Begin PBXBuildFile section */
 		53069FBE2347E08A00663A24 /* SwiftFrameworkProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = 53069FBC2347E08A00663A24 /* SwiftFrameworkProxy.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		53069FC52347E0AD00663A24 /* SwiftFrameworkProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53069FC42347E0AD00663A24 /* SwiftFrameworkProxy.swift */; };
-		978ADDBD2A4F70E7001FFAC4 /* NeuroID.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 978ADDBB2A4F70E3001FFAC4 /* NeuroID.framework */; platformFilter = ios; };
-		978ADDBE2A4F70E7001FFAC4 /* NeuroID.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 978ADDBB2A4F70E3001FFAC4 /* NeuroID.framework */; platformFilter = ios; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		97212AC02AAFA0810083AF2A /* NeuroID.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 97212ABE2AAFA0780083AF2A /* NeuroID.framework */; platformFilter = ios; };
+		97212AC12AAFA0810083AF2A /* NeuroID.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 97212ABE2AAFA0780083AF2A /* NeuroID.framework */; platformFilter = ios; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		97BA5D1B2A4F93AE00F978C0 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 97BA5D1A2A4F93AE00F978C0 /* Alamofire */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
+		97212AC22AAFA0810083AF2A /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				97212AC12AAFA0810083AF2A /* NeuroID.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		978ADD9D2A4F5AAC001FFAC4 /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 12;
 			dstPath = "";
 			dstSubfolderSpec = 1;
 			files = (
-				978ADDBE2A4F70E7001FFAC4 /* NeuroID.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -33,7 +43,7 @@
 		53069FBC2347E08A00663A24 /* SwiftFrameworkProxy.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SwiftFrameworkProxy.h; sourceTree = "<group>"; };
 		53069FBD2347E08A00663A24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		53069FC42347E0AD00663A24 /* SwiftFrameworkProxy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftFrameworkProxy.swift; sourceTree = "<group>"; };
-		978ADDBB2A4F70E3001FFAC4 /* NeuroID.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = NeuroID.framework; sourceTree = "<group>"; };
+		97212ABE2AAFA0780083AF2A /* NeuroID.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = NeuroID.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,8 +51,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				978ADDBD2A4F70E7001FFAC4 /* NeuroID.framework in Frameworks */,
 				97BA5D1B2A4F93AE00F978C0 /* Alamofire in Frameworks */,
+				97212AC02AAFA0810083AF2A /* NeuroID.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -79,7 +89,7 @@
 		53D457AD23849FBB00D7A06F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				978ADDBB2A4F70E3001FFAC4 /* NeuroID.framework */,
+				97212ABE2AAFA0780083AF2A /* NeuroID.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -107,6 +117,7 @@
 				53069FB62347E08A00663A24 /* Frameworks */,
 				53069FB72347E08A00663A24 /* Resources */,
 				978ADD9D2A4F5AAC001FFAC4 /* Embed Frameworks */,
+				97212AC22AAFA0810083AF2A /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
