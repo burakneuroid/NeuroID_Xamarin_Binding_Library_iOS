@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Xamarin.SingleView.app/Xamarin.SingleView">
+      <BCSymbolMapName>Xamarin.SingleView.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>false</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>false</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Xamarin.SingleView.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/burakkebapci/Desktop/XAMTEST2/Xamarin/Xamarin.SingleView/obj/iPhone/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>Xamarin.SingleView.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/burakkebapci/Desktop/XAMTEST2/Xamarin/Xamarin.SingleView</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
